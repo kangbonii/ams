@@ -8,10 +8,10 @@ Academy managerment service은 학원 강의의 효과를 증진 시키기 위�
 
 ### 사용기술 ###
 
-개발환경 Linux(Cent Os7), apache tomcat
-개발언어 java, html5/css3, javascript(jquery)
-사용기술 spring framework(java/jsp), ajax, mybatis, oracle, bootstrap
-개발도구eclipse, github, sqldeveloper, exerd
+개발환경 Linux(Cent Os7), apache tomcat    
+개발언어 java, html5/css3, javascript(jquery)        
+사용기술 spring framework(java/jsp), ajax, mybatis, oracle, bootstrap    
+개발도구eclipse, github, sqldeveloper, exerd     
 
 
 
